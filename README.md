@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🧠 About Me
+Hi there! I’m a data enthusiast passionate about using machine learning and data storytelling to solve real-world problems. I’m especially interested in projects that intersect technology, sports, and social impact.
 
-<!--
-**Travismoll/Travismoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently building a portfolio of end-to-end data science projects — from data cleaning to model deployment.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Do
+📊 Data Analysis & Visualization
+Turning raw data into actionable insights with Pandas, Matplotlib, and Seaborn.
+
+🤖 Machine Learning
+Training and evaluating models (Random Forest, XGBoost, Logistic Regression) for classification and prediction tasks.
+
+🚀 What I'm Working On
+📚 Expanding my skill set in SQL, NLP, and Time Series Analysis.
+📈 Growing my data science portfolio with real-world, end-to-end projects
+
+🧰 Tools & Tech
+Python · Pandas · SQL · Tableau · PowerBi 
+
+📫 Let’s Connect
+💼 LinkedIn www.linkedin.com/in/travis-moll-4974a21a9
+
